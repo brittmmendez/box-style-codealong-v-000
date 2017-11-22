@@ -140,7 +140,9 @@ img, video, audio, iframe, table, form {
 }
 
 /*////////// HEADER //////////*/
-
+header{
+  margi:0 0 30px;
+}
 
 
 /*////////// NAVBAR //////////*/
